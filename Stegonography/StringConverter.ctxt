@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StringConverter()
+comment1.params=text
+comment1.target=int[]\ convert2Bits(java.lang.String)
+comment2.params=bits
+comment2.target=java.lang.String\ convert2String(int[])
+comment3.params=x
+comment3.target=int[]\ convertFromInt(int)
+comment4.params=bits
+comment4.target=int\ convertToInt(int[])
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImageFilter()
+comment1.params=image
+comment1.target=squint.SImage\ clearLowerBit(squint.SImage)
+comment2.params=image\ factor\ divider\ pixels\ color\ greenPixel\ bluePixel
+comment2.target=squint.SImage\ scaleImage(squint.SImage,\ int,\ int,\ int[][],\ boolean,\ int[][],\ int[][])
+comment3.params=a\ b
+comment3.target=boolean\ areEqual(int[][],\ int[][])
+comment4.params=image
+comment4.target=boolean\ isColor(squint.SImage)
+comment5.params=coverImage\ secretImage
+comment5.target=squint.SImage\ addImages(squint.SImage,\ squint.SImage)
+comment6.params=encryptedImage
+comment6.target=squint.SImage\ subtractImages(squint.SImage)
+numComments=7

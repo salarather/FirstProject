@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[][])
+comment1.params=
+comment1.target=StegoDisplay()
+comment2.params=whichButton
+comment2.target=void\ buttonClicked(javax.swing.JButton)
+comment3.params=bits\ width\ height
+comment3.target=squint.SImage\ convert2Image(int[],\ int,\ int)
+comment4.params=image
+comment4.target=int[]\ convert2Bits(squint.SImage)
+numComments=5

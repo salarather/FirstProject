@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=stegoDisplay
+comment0.target=ImageViewer(StegoDisplay)
+comment1.params=whichButton
+comment1.target=void\ buttonClicked(javax.swing.JButton)
+comment2.params=filename
+comment2.target=void\ writePGMImage(java.lang.String)
+comment3.params=filename
+comment3.target=squint.SImage\ readPGMImage(java.lang.String)
+comment4.params=
+comment4.target=squint.SImage\ getImage()
+numComments=5
